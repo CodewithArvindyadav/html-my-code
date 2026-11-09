@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Descripition " content="This is page about me">
+    <title>Sigma Web Devlopment</title>
+    <link rel="stylesheet" href="style.css">
+</head>                 
+<body>
+    Hey This is My First Website 
+    <h1>My Bookmarks </h1>
+   
+    <h2>Primary Bookmarks  </h2>
+    <p><a target="_blank" href="https://google.com"> Open google</a></p>
+    <p><a target="_blank" href="https://instagram.com"> Open instagram</a></p>
+    <p><a target="_blank" href="https://facebook.com"> Open Facebook</a></p>
+    <p><a target="_blank" href="https://codewithharry.com"> Open Code with harry</a></p>
+<p
+
+     style="background-color:blue;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam ducimus quasi a! Facilis quisquam doloremque ipsa non nobis. Esse consequatur quo beatae illum. Itaque!</p>
+<img width="250" src="img.png" alt=" Train image">   
+
+<table>
+    <caption> My Details </caption>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+    <th> Favirote</th>
+  </tr>
+  <tr>
+    <td>Arvind Yadav</td>
+    <td>21</td>
+    <td>web development</td>
+  </tr>
+</table>
+<h1> form to apply web development course </h1>
+<form action="Post">
+  
+</div>
+<label for="username "> enter your username</label>
+<input type="text" name="username" placeholder="enter your username" autofocus>
+<div>
+  
+</div>
+      <input type="radio" id="male">
+      <label for="male"> male</label>
+      <input type="radio" name="female" id="female">
+      <label for="female">female</label>
+
+<div>
+      <input type="checkbox" name="subscribe" id="checkbox">
+      <label for="checkbox">subscribe</label>
+      <div>
+        <label for="comment"> enter your comment</label>
+        <br>
+        <textarea name="comment" id=" comment"></textarea>
+       
+      </div>
+      <div>
+        <select name="fruits" id="fruits" >
+        <option value="apple">apple</option>
+        <option value="bnana">banana</option>
+        <option value="Arvind">Arvind</option>
+        </select>
+      </div>
+<h4> I am Arvind</h4>
+<div>arvind</div>
+<a>i am fresher</a>
+<div id="firstdiv" class="red bg-yellow">first</div>
+
+<iframe src="https://sarkariresult.com.cm/rrb-isolated-categories-2026/" frameborder="0"></iframe>
+
+      
+</form>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/XZwBNDGuWGU?si=tp_CAUDG4SU2rH_z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
